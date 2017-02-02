@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    padding-left: 10px;
+    color: white;
+}
+
+li {
+	display: inline-block;
+	margin-left: 5px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-top: 15px;
+}
+
+nav {
+	width: 400px;
+	height: 50px;
+	background-color: blue;
+}
+
+a:link {
+    color: white;
+}
+
+a:hover {
+	background-color: white;
+	color: blue;
+}
